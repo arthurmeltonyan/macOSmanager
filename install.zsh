@@ -61,21 +61,18 @@ git config --global user.name "Arthur Meltonyan"
 git config --global user.email arthur.meltonyan@gmail.com
 
 
-curl --proto "=https"--tlsv1.2 -sSf https://sh.rustup.rs | sh
+curl --proto "=https" --tlsv1.2 -sSf https://sh.rustup.rs | sh
 echo "export PATH=\"$HOME/.cargo/bin:$PATH\"" >> ~/.zshenv
 
 
 brew install pyenv
-pyenv install 3.10.3
-pyenv global 3.10.3
+pyenv install 3.8.13
+pyenv global 3.8.13
 echo "export PATH=\"$HOME/.pyenv/bin:$PATH\"" >> ~/.zshenv
 echo "eval \"$(pyenv init --path)\"" >> ~/.zlogin
 echo "eval \"$(pyenv init -)\"" >> ~/.zlogin
 
 
 pip3 install --user --upgrade pip
-curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python3 -
-echo "export PATH=\"$HOME/.poetry/bin:$PATH\"" >> ~/.zshenv
-
-
-pip3 install --user pipenv
+curl -sSL https://raw.githubusercontent.com/pdm-project/pdm/main/install-pdm.py | python3 -
+echo "export PATH=\"$HOME/.local/bin:$PATH\"" >> ~/.zshenv
