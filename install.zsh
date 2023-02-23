@@ -32,6 +32,8 @@ brew install --cask alfred
 brew install --cask the-unarchiver
 brew install --cask cleanmymac
 brew install --cask cakebrew
+brew install --cask little-snitch
+brew install --cask lulu
 
 
 brew install --cask iina
@@ -40,7 +42,7 @@ brew install --cask iina
 brew install --cask visual-studio-code
 brew install --cask pycharm
 brew install --cask dataspell
-brew install --cask texpad
+brew install --cask testifier
 brew install --cask mactex-no-gui
 brew install --cask paw
 brew install --cask tableplus
