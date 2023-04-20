@@ -63,6 +63,10 @@ git config --global user.name "Arthur Meltonyan"
 git config --global user.email arthur.meltonyan@gmail.com
 
 
+brew install neovim
+git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1 && nvim
+
+
 curl --proto "=https" --tlsv1.2 -sSf https://sh.rustup.rs | sh
 echo "export PATH=\"$HOME/.cargo/bin:$PATH\"" >> ~/.zshenv
 
