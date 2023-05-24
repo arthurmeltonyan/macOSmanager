@@ -35,6 +35,7 @@ brew install --cask cleanmymac
 brew install --cask cakebrew
 brew install --cask little-snitch
 brew install --cask lulu
+brew install --cask notion
 
 
 brew install --cask iina
