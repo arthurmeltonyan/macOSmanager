@@ -46,7 +46,7 @@ brew install --cask pycharm
 brew install --cask dataspell
 brew install --cask texifier
 brew install --cask mactex-no-gui
-brew install --cask paw
+brew install --cask rapidapi
 brew install --cask tableplus
 brew install --cask transmit
 brew install --cask fork
