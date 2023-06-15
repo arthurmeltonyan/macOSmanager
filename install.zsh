@@ -34,7 +34,6 @@ brew install --cask the-unarchiver
 brew install --cask cleanmymac
 brew install --cask cakebrew
 brew install --cask little-snitch
-brew install --cask lulu
 brew install --cask notion
 
 
