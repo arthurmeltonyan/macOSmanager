@@ -21,9 +21,9 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     touch ~/.hushlogin
 
     git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
-    echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc 
+    echo "source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ~/.zshrc
     git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
-    echo "source ${(q-)PWD}/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+    echo "source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh" >> ~/.zshrc
 
     curl -O https://raw.githubusercontent.com/arthurmeltonyan/macosmanager/master/install.zsh
     osascript -e 'tell app "Terminal" to do script "source install.zsh"'
