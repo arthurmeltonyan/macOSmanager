@@ -66,8 +66,8 @@ git config --global user.email arthur.meltonyan@gmail.com
 
 brew install neovim
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
-LV_BRANCH='release-1.2/neovim-0.8' 
-curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/fc6873809934917b470bff1b072171879899a36b/utils/installer/install.sh
+LV_BRANCH='release-1.3/neovim-0.9' 
+curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh
 
 
 curl --proto "=https" --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -75,8 +75,8 @@ echo "export PATH=\"$HOME/.cargo/bin:$PATH\"" >> ~/.zshenv
 
 
 brew install pyenv
-pyenv install 3.8.13
-pyenv global 3.8.13
+pyenv install 3.10
+pyenv global 3.10
 echo "export PATH=\"$HOME/.pyenv/bin:$PATH\"" >> ~/.zshenv
 echo "eval \"$(pyenv init --path)\"" >> ~/.zlogin
 echo "eval \"$(pyenv init -)\"" >> ~/.zlogin
