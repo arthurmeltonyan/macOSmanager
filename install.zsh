@@ -70,8 +70,7 @@ LV_BRANCH='release-1.3/neovim-0.9'
 curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh
 
 
-curl --proto "=https" --tlsv1.2 -sSf https://sh.rustup.rs | sh
-echo "export PATH=\"$HOME/.cargo/bin:$PATH\"" >> ~/.zshrc
+brew install rustup
 
 
 brew install pyenv
