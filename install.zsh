@@ -83,5 +83,5 @@ echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 
 
 pip3 install --user --upgrade pip
-curl -sSL https://raw.githubusercontent.com/pdm-project/pdm/main/install-pdm.py | python3 -
+brew install pdm
 echo "export PATH=\"$HOME/.local/bin:$PATH\"" >> ~/.zshenv
