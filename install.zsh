@@ -71,15 +71,15 @@ curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0
 
 
 curl --proto "=https" --tlsv1.2 -sSf https://sh.rustup.rs | sh
-echo "export PATH=\"$HOME/.cargo/bin:$PATH\"" >> ~/.zshenv
+echo "export PATH=\"$HOME/.cargo/bin:$PATH\"" >> ~/.zshrc
 
 
 brew install pyenv
 pyenv install 3.10
 pyenv global 3.10
-echo "export PATH=\"$HOME/.pyenv/bin:$PATH\"" >> ~/.zshenv
-echo "eval \"$(pyenv init --path)\"" >> ~/.zlogin
-echo "eval \"$(pyenv init -)\"" >> ~/.zlogin
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
+echo 'command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
+echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 
 
 pip3 install --user --upgrade pip
