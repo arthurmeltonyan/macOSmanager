@@ -24,6 +24,7 @@ brew install --cask opera
 brew install --cask arc
 brew install --cask transmission
 brew install --cask zoom
+brew install --cask discord
 brew install --cask telegram
 brew install --cask slack
 brew install --cask signal
