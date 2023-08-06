@@ -32,10 +32,11 @@ brew install --cask signal
 
 
 brew install --cask alfred
-brew install --cask the-unarchiver
-brew install --cask cleanmymac
 brew install --cask cakebrew
+brew install --cask cleanmymac
 brew install --cask little-snitch
+brew install --cask the-unarchiver
+brew install --cask pdf-expert
 brew install --cask notion
 
 
