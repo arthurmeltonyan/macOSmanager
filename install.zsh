@@ -43,7 +43,7 @@ brew install --cask notion
 brew install --cask iina
 
 
-brew install --cask visual-studio-code
+brew install --cask pulsar
 brew install --cask pycharm
 brew install --cask dataspell
 brew install --cask texifier
