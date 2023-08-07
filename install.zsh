@@ -69,7 +69,6 @@ git config --global user.email arthur.meltonyan@gmail.com
 
 brew install neovim
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
-LV_BRANCH='release-1.3/neovim-0.9' 
 curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh
 
 
