@@ -22,7 +22,7 @@ brew install --cask google-chrome
 brew install --cask firefox
 brew install --cask opera
 brew install --cask arc
-brew install --cask protonmail-bridge
+brew install --cask protonvpn
 brew install --cask transmission
 brew install --cask zoom
 brew install --cask discord
