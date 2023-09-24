@@ -41,6 +41,7 @@ brew install --cask notion
 
 
 brew install --cask iina
+brew install --cask spotify
 
 
 brew install --cask lapce
