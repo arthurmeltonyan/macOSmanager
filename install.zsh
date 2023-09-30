@@ -44,7 +44,6 @@ brew install --cask iina
 brew install --cask spotify
 
 
-brew install --cask codeedit
 brew install --cask pycharm
 brew install --cask dataspell
 brew install --cask texifier
