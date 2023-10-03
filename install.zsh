@@ -17,11 +17,8 @@ brew install gnu-sed
 
 brew install tor
 brew install --cask tor-browser
-brew install --cask brave-browser
 brew install --cask google-chrome
-brew install --cask firefox
-brew install --cask opera
-brew install --cask arc
+brew install --cask vivaldi
 brew install --cask protonvpn
 brew install --cask transmission
 brew install --cask zoom
