@@ -60,6 +60,7 @@ brew install helm
 
 
 brew install git
+brew install hub
 git config --global core.excludesfile ~/.gitignore_global
 git config --global init.defaultBranch main
 git config --global user.name "Arthur Meltonyan"
