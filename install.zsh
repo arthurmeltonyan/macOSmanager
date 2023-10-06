@@ -21,6 +21,8 @@ brew install --cask google-chrome
 brew install --cask vivaldi
 brew install --cask protonvpn
 brew install --cask transmission
+
+
 brew install --cask zoom
 brew install --cask discord
 brew install --cask telegram
@@ -32,6 +34,8 @@ brew install --cask alfred
 brew install --cask cakebrew
 brew install --cask cleanmymac
 brew install --cask little-snitch
+
+
 brew install --cask the-unarchiver
 brew install --cask pdf-expert
 brew install --cask notion
@@ -41,11 +45,14 @@ brew install --cask iina
 brew install --cask spotify
 
 
+brew install --cask typora
 brew install --cask pycharm
 brew install --cask dataspell
 brew install --cask rustrover
 brew install --cask texifier
 brew install --cask mactex-no-gui
+
+
 brew install --cask rapidapi
 brew install --cask tableplus
 brew install --cask transmit
