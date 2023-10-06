@@ -38,6 +38,7 @@ brew install --cask little-snitch
 
 brew install --cask the-unarchiver
 brew install --cask pdf-expert
+brew install --cask obsidian
 brew install --cask notion
 
 
