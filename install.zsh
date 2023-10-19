@@ -88,4 +88,4 @@ echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 
 
 pip3 install --user --upgrade pip
-brew install pdm
+curl -sSL https://install.python-poetry.org | python3 -
