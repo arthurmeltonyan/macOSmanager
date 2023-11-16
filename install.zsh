@@ -19,7 +19,6 @@ brew install tor
 brew install --cask tor-browser
 brew install --cask google-chrome
 brew install --cask vivaldi
-brew install --cask protonvpn
 brew install --cask transmission
 
 
