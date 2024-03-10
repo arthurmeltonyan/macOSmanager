@@ -1,7 +1,7 @@
 macOSmanager
 ============
 
-``macOSmanager`` scripts allow data scientists on macOS oversimplify the installation of macOS applications and packages.
+``macOSmanager`` script allows data scientists on macOS oversimplify the installation of macOS applications and packages.
 
 
 Installation
@@ -29,4 +29,3 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     osascript -e 'tell app "Terminal" to do script "source install.zsh"'
 
 ``macOSmanager`` officially supports only macOS Somona.
-
