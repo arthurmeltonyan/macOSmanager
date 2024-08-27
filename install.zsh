@@ -26,7 +26,6 @@ brew install --cask discord
 brew install --cask telegram
 brew install --cask slack
 brew install --cask signal
-brew install --cask proton-mail
 
 
 brew install --cask alfred
