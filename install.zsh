@@ -7,6 +7,7 @@ brew install lapack
 brew install zlib
 brew install bzip2
 brew install node
+brew install jq
 
 
 brew install httpie
