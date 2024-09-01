@@ -7,9 +7,10 @@ brew install lapack
 brew install zlib
 brew install bzip2
 brew install node
+
+
 brew install jq
-
-
+brew install csvkit
 brew install httpie
 brew install lsd
 brew install lftp
