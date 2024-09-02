@@ -19,7 +19,7 @@ brew install gnu-sed
 
 brew install tor
 brew install --cask tor-browser
-brew install --cask google-chrome
+brew install --cask firefox
 brew install --cask transmission
 
 
