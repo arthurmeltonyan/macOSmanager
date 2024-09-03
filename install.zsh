@@ -44,6 +44,7 @@ brew install --cask notion-calendar
 
 
 brew install --cask iina
+brew install --cask cleanshot
 brew install --cask spotify
 
 
