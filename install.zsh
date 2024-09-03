@@ -30,6 +30,7 @@ brew install --cask slack
 brew install --cask signal
 
 
+brew install --cask swiftbar
 brew install --cask alfred
 brew install --cask cakebrew
 brew install --cask cleanmymac
@@ -39,6 +40,7 @@ brew install --cask little-snitch
 brew install --cask the-unarchiver
 brew install --cask pdf-expert
 brew install --cask notion
+brew install --cask notion-calendar
 
 
 brew install --cask iina
