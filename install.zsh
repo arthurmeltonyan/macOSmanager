@@ -12,6 +12,7 @@ brew install node
 brew install jq
 brew install csvkit
 brew install httpie
+brew install zoxide
 brew install lsd
 brew install lftp
 brew install gnu-sed
