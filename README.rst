@@ -17,6 +17,9 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     touch ~/.hushlogin
     set -U fish_greeting
     brew bundle --file=Brewfile
+    fisher install 'ryoppippi/fish-poetry'
+    curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher
+
 
     curl -O https://raw.githubusercontent.com/arthurmeltonyan/macosmanager/master/install.zsh
     osascript -e 'tell app "Terminal" to do script "source install.zsh"'
