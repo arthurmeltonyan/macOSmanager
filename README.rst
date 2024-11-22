@@ -14,9 +14,6 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     touch ~/.zshenv ~/.zprofile ~/.zshrc ~/.zlogin ~/.zlogout
     echo "export PATH="/opt/homebrew/bin:$PATH"" >> ~/.zshenv
-    brew tap homebrew/cask-fonts
-    brew install --cask font-fira-code-nerd-font
-    brew install starship
     echo "eval "$(starship init zsh)"" >> ~/.zshrc
     touch ~/.hushlogin
 
