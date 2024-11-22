@@ -8,17 +8,6 @@ brew install zlib
 brew install bzip2
 brew install node
 
-brew install --cask pycharm
-brew install --cask dataspell
-brew install --cask texifier
-brew install --cask mactex-no-gui
-
-
-brew install --cask rapidapi
-brew install --cask tableplus
-brew install --cask transmit
-brew install --cask fork
-
 git config --global core.excludesfile ~/.gitignore_global
 git config --global init.defaultBranch main
 git config --global user.name "Arthur Meltonyan"
