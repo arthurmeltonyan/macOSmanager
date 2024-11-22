@@ -53,8 +53,7 @@ brew "docker"
 brew "minikube"
 brew "helm"
 
-brew "git"
-brew "hub"
+brew "gh"
 
 brew "pyenv"
 brew "rustup"
