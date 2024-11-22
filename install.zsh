@@ -8,47 +8,6 @@ brew install zlib
 brew install bzip2
 brew install node
 
-
-brew install jq
-brew install csvkit
-brew install eza
-brew install zoxide
-brew install lftp
-brew install httpie
-brew install gnu-sed
-
-
-brew install tor
-brew install --cask tor-browser
-brew install --cask firefox
-brew install --cask transmission
-
-
-brew install --cask zoom
-brew install --cask discord
-brew install --cask telegram
-brew install --cask slack
-brew install --cask signal
-
-
-brew install --cask swiftbar
-brew install --cask alfred
-brew install --cask cakebrew
-brew install --cask cleanmymac
-brew install --cask little-snitch
-
-
-brew install --cask the-unarchiver
-brew install --cask pdf-expert
-brew install --cask notion
-brew install --cask notion-calendar
-
-
-brew install --cask iina
-brew install --cask cleanshot
-brew install --cask spotify
-
-
 brew install --cask pycharm
 brew install --cask dataspell
 brew install --cask texifier
@@ -60,15 +19,6 @@ brew install --cask tableplus
 brew install --cask transmit
 brew install --cask fork
 
-
-brew install --cask docker
-brew install docker
-brew install minikube
-brew install helm
-
-
-brew install git
-brew install hub
 git config --global core.excludesfile ~/.gitignore_global
 git config --global init.defaultBranch main
 git config --global user.name "Arthur Meltonyan"
@@ -78,12 +28,6 @@ git config --global user.email arthur.meltonyan@gmail.com
 brew install neovim
 git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
 curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh
-
-
-brew install rustup
-
-
-brew install pyenv
 pyenv install 3.10
 pyenv global 3.10
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
