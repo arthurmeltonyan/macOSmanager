@@ -12,8 +12,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
 .. code:: sh
 
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-    touch ~/.zshenv ~/.zprofile ~/.zshrc ~/.zlogin ~/.zlogout
-    echo "export PATH="/opt/homebrew/bin:$PATH"" >> ~/.zshenv
+    fish_add_path /opt/homebrew/bin
     echo "eval "$(starship init zsh)"" >> ~/.zshrc
     touch ~/.hushlogin
     set -U fish_greeting
