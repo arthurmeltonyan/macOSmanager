@@ -16,6 +16,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     echo "export PATH="/opt/homebrew/bin:$PATH"" >> ~/.zshenv
     echo "eval "$(starship init zsh)"" >> ~/.zshrc
     touch ~/.hushlogin
+    set -U fish_greeting
 
     curl -O https://raw.githubusercontent.com/arthurmeltonyan/macosmanager/master/install.zsh
     osascript -e 'tell app "Terminal" to do script "source install.zsh"'
