@@ -4,9 +4,6 @@ git config --global user.name "Arthur Meltonyan"
 git config --global user.email arthur.meltonyan@gmail.com
 
 
-brew install neovim
-git clone https://github.com/NvChad/NvChad ~/.config/nvim --depth 1
-curl -s https://raw.githubusercontent.com/LunarVim/LunarVim/release-1.3/neovim-0.9/utils/installer/install.sh
 pyenv install 3.10
 pyenv global 3.10
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
