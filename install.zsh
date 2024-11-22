@@ -6,9 +6,6 @@ git config --global user.email arthur.meltonyan@gmail.com
 
 pyenv install 3.10
 pyenv global 3.10
-echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
-echo 'command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc
-echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 
 
 pip3 install --user --upgrade pip
