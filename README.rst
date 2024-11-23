@@ -27,7 +27,6 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask rapidapi tableplus transmit fork
 
 
-
     curl -O https://raw.githubusercontent.com/arthurmeltonyan/macosmanager/master/install.zsh
     osascript -e 'tell app "Terminal" to do script "source install.zsh"'
 
