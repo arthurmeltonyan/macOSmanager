@@ -23,7 +23,6 @@ cask "signal"
 
 cask "swiftbar"
 cask "alfred"
-cask "cakebrew"
 cask "cleanmymac"
 cask "little-snitch"
 
