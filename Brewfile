@@ -4,48 +4,6 @@ tap "daytonaio/tap"
 cask "font-fira-code-nerd-font"
 brew "starship"
 
-brew "jq"
-brew "xsv"
-brew "lsd"
-brew "zoxide"
-brew "ripgrep"
-brew "httpie"
-
-brew "tor"
-cask "tor-browser"
-cask "transmission"
-
-cask "zoom"
-cask "discord"
-cask "telegram"
-cask "slack"
-cask "signal"
-
-cask "swiftbar"
-cask "alfred"
-cask "cleanmymac"
-cask "little-snitch"
-
-cask "the-unarchiver"
-cask "pdf-expert"
-cask "notion"
-cask "notion-calendar"
-
-cask "iina"
-cask "cleanshot"
-cask "spotify"
-
-cask "pycharm"
-cask "dataspell"
-cask "rustrover"
-cask "texifier"
-cask "mactex-no-gui"
-
-cask "rapidapi"
-cask "tableplus"
-cask "transmit"
-cask "fork"
-
 cask "docker"
 brew "docker"
 brew "minikube"
