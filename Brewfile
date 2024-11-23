@@ -56,7 +56,6 @@ brew "gh"
 brew "pyenv"
 brew "rustup"
 brew "daytona"
-brew "pyenv"
 
 brew "mas"
 mas "Pages", id: 409201541
