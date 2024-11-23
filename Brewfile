@@ -9,7 +9,6 @@ brew "xsv"
 brew "lsd"
 brew "zoxide"
 brew "ripgrep"
-brew "rsync"
 brew "httpie"
 
 brew "tor"
