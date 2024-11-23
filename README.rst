@@ -17,8 +17,15 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     touch ~/.hushlogin
     set -U fish_greeting
     brew bundle --file=Brewfile
-    fisher install 'ryoppippi/fish-poetry'
-    curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher
+    brew install --formula tor
+    brew install --cask tor-browser transmission 
+    brew install --cask zoom discord telegram slack signal
+    brew install --cask swiftbar alfred cakebrew cleanmymac little-snitch
+    brew install --cask the-unarchiver pdf-expert notion notion-calendar
+    brew install --cask iina cleanshot spotify
+    brew install --cask pycharm dataspell rustrover texifier mactex-no-gui
+    brew install --cask rapidapi tableplus transmit fork
+
 
 
     curl -O https://raw.githubusercontent.com/arthurmeltonyan/macosmanager/master/install.zsh
