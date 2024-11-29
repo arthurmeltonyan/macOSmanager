@@ -8,8 +8,6 @@ mas "Microsoft Word", id: 462054704
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft PowerPoint", id: 462062816
 
-mas "Photomator – Photo Editor", id: 1444636541
-mas "Pixelmator Pro", id: 1289583905
 mas "Shazam", id: 897118787
 mas "iMovie", id: 408981434
 
