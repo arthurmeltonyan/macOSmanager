@@ -4,17 +4,6 @@ tap "daytonaio/tap"
 cask "font-fira-code-nerd-font"
 brew "starship"
 
-cask "docker"
-brew "docker"
-brew "minikube"
-brew "helm"
-
-brew "gh"
-
-brew "pyenv"
-brew "rustup"
-brew "daytona"
-
 brew "mas"
 mas "Pages", id: 409201541
 mas "Keynote", id: 409183694
