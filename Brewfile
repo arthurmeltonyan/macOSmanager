@@ -4,10 +4,6 @@ tap "daytonaio/tap"
 cask "font-fira-code-nerd-font"
 brew "starship"
 
-brew "mas"
-mas "Pages", id: 409201541
-mas "Keynote", id: 409183694
-mas "Numbers", id: 409203825
 mas "Microsoft Word", id: 462054704
 mas "Microsoft Excel", id: 462058435
 mas "Microsoft PowerPoint", id: 462062816
