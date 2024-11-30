@@ -11,16 +11,16 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
 
 .. code:: sh
 
-    git config --global core.excludesfile ~/.gitignore_global
-    git config --global init.defaultBranch main
-    git config --global user.name "Arthur Meltonyan"
-    git config --global user.email arthur.meltonyan@gmail.com
-
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     fish_add_path /opt/homebrew/bin
     echo "starship init fish | source" >> ~/.config/fish/config.fish
     touch ~/.hushlogin
     set -U fish_greeting
+
+    git config --global core.excludesfile ~/.gitignore_global
+    git config --global init.defaultBranch main
+    git config --global user.name "Arthur Meltonyan"
+    git config --global user.email arthur.meltonyan@gmail.com
 
     brew install --formula starship
     brew install --cask font-fira-code-nerd-font
