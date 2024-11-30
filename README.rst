@@ -52,7 +52,8 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     mas lucky "KeyKey Touch Typing Tutor"
     mas lucky "Things 3"
 
-    curl -O https://raw.githubusercontent.com/arthurmeltonyan/macosmanager/master/install.zsh
-    osascript -e 'tell app "Terminal" to do script "source install.zsh"'
+    pyenv install 3.12.7
+    pyenv global 3.12.7
+    curl -sSL https://install.python-poetry.org | python3 -
 
 ``macOSmanager`` officially supports only macOS Somona.
