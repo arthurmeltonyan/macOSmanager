@@ -29,8 +29,8 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask tor-browser transmission
     brew install --cask zoom discord telegram slack signal
     brew install --cask swiftbar maccy alfred cleanmymac little-snitch
-    brew install --cask the-unarchiver pdf-expert notion notion-calendar
-    brew install --cask iina cleanshot spotify
+    brew install --cask crossover the-unarchiver pdf-expert notion notion-calendar
+    brew install --cask iina cleanshot
     brew install --cask zed pycharm dataspell rustrover texifier mactex-no-gui
     brew install --cask rapidapi tableplus transmit fork docker
     brew install --formula podman docker minikube helm
