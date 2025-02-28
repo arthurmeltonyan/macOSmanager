@@ -33,7 +33,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask cleanmymac little-snitch
     brew install --cask whisky crossover 
     brew install --cask the-unarchiver pdf-expert notion notion-calendar
-    brew install --cask iina cleanshot
+    brew install --cask iina cleanshot clop
     brew install --cask pycharm dataspell rustrover texifier mactex-no-gui
     brew install --cask ghostty rapidapi tableplus transmit fork docker
     brew install --formula podman docker minikube helm
@@ -54,6 +54,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     mas lucky "SnippetsLab"
     mas lucky "KeyKey Touch Typing Tutor"
     mas lucky "Things 3"
+    mas lucky "rcmd"
 
     pyenv install 3.12.7
     pyenv global 3.12.7
