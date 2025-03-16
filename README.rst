@@ -57,6 +57,6 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
 
     pyenv install 3.12.7
     pyenv global 3.12.7
-    curl -sSL https://install.python-poetry.org | python3 -
+    curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ``macOSmanager`` officially supports only macOS Seqoia.
