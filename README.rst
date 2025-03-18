@@ -30,10 +30,10 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask tor-browser transmission
     brew install --cask zoom discord telegram slack signal
     brew install --cask applite swiftbar maccy pastepal 
-    brew install --cask alfred raycast superwhisper
+    brew install --cask raycast superwhisper
     brew install --cask cleanmymac little-snitch
     brew install --cask whisky crossover 
-    brew install --cask the-unarchiver pdf-expert wpsoffice 
+    brew install --cask keka pdf-expert wpsoffice 
     brew install --cask notion notion-calendar notion-mail
     brew install --cask iina cleanshot clop
     brew install --cask pycharm dataspell rustrover texifier mactex-no-gui
