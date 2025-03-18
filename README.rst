@@ -55,8 +55,8 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     mas lucky "KeyKey Touch Typing Tutor"
     mas lucky "Things 3"
 
-    pyenv install 3.12.7
-    pyenv global 3.12.7
+    pyenv install 3.13.2
+    pyenv global 3.13.2
     curl -LsSf https://astral.sh/uv/install.sh | sh
 
 ``macOSmanager`` officially supports only macOS Seqoia.
