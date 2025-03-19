@@ -1,7 +1,7 @@
 macOSmanager
 ============
 
-``macOSmanager`` script allows data scientists on macOS oversimplify the installation of macOS applications and packages.
+``macOSmanager`` script allows data scientists on macOS to simplify the installation of applications and packages.
 
 
 Installation
