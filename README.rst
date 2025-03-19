@@ -39,7 +39,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask pycharm dataspell rustrover texifier mactex-no-gui
     brew install --cask ghostty rapidapi tableplus transmit fork 
     brew install --cask podman-desktop docker
-    brew install --formula podman docker minikube helm
+    brew install --formula podman docker minikube
     brew install --formula pyenv rustup
     brew install --formula gh mas
 
