@@ -48,7 +48,6 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     mas lucky "Numbers"
     mas lucky "Pixelmator Pro"
     mas lucky "Photomator"
-    mas lucky "Shazam"
     mas lucky "iMovie"
     mas lucky "Xcode"
     mas lucky "SnippetsLab"
