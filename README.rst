@@ -29,7 +29,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --formula jq xsv lsd zoxide ripgrep httpie tor
     brew install --cask tor-browser transmission
     brew install --cask zoom discord telegram slack signal
-    brew install --cask applite swiftbar maccy pastepal 
+    brew install --cask applite swiftbar input-source-pro maccy pastepal 
     brew install --cask raycast superwhisper
     brew install --cask cleanmymac little-snitch
     brew install --cask whisky crossover 
