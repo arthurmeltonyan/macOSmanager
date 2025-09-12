@@ -29,15 +29,15 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --formula jq xsv lsd zoxide ripgrep httpie tor
     brew install --cask tor-browser transmission
     brew install --cask zoom discord telegram slack signal
-    brew install --cask applite swiftbar maccy pastepal 
+    brew install --cask applite swiftbar maccy pastepal
     brew install --cask raycast superwhisper
     brew install --cask cleanmymac little-snitch
     brew install --cask whisky crossover 
-    brew install --cask keka pdf-expert wpsoffice 
+    brew install --cask keka pdf-expert wpsoffice
     brew install --cask notion notion-calendar notion-mail
-    brew install --cask iina cleanshot clop
+    brew install --cask iina cleanshot clop screen-studio
     brew install --cask pycharm dataspell rustrover texifier mactex-no-gui
-    brew install --cask ghostty rapidapi tableplus transmit fork 
+    brew install --cask ghostty rapidapi tableplus postico medis querious transmit fork 
     brew install --cask orbstack
     brew install --formula docker minikube
     brew install --formula pyenv rustup
