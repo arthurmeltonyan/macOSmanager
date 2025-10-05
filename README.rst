@@ -36,7 +36,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask keka pdf-expert wpsoffice
     brew install --cask notion notion-calendar notion-mail
     brew install --cask iina cleanshot clop screen-studio
-    brew install --cask coteditor pycharm dataspell rustrover texifier mactex-no-gui
+    brew install --cask zed pycharm dataspell rustrover texifier mactex-no-gui
     brew install --cask ghostty rapidapi tableplus postico medis querious transmit fork 
     brew install --cask orbstack
     brew install --formula docker minikube
