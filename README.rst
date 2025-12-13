@@ -11,9 +11,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
 
 .. code:: sh
 
-    chsh -s /usr/local/bin/fish
     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-    fish_add_path /opt/homebrew/bin
 
     git config --global core.excludesfile ~/.gitignore_global
     git config --global init.defaultBranch master
@@ -22,9 +20,8 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
 
     brew install --cask font-fira-code-nerd-font
     brew install --formula starship
-    echo "starship init fish | source" >> ~/.config/fish/config.fish
+    echo 'eval "$(starship init zsh)"' >> ~/.zshrc
     touch ~/.hushlogin
-    set -U fish_greeting
 
     brew install --formula jq lsd zoxide ripgrep httpie tor
     brew install --cask tor-browser transmission
