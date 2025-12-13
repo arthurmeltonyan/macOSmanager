@@ -39,18 +39,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask orbstack
     brew install --formula docker minikube
     brew install --formula pyenv rustup
-    brew install --formula gh mas
-
-    mas lucky "Pages"
-    mas lucky "Keynote"
-    mas lucky "Numbers"
-    mas lucky "Pixelmator Pro"
-    mas lucky "Photomator"
-    mas lucky "iMovie"
-    mas lucky "Xcode"
-    mas lucky "SnippetsLab"
-    mas lucky "KeyKey Touch Typing Tutor"
-    mas lucky "Things 3"
+    brew install --formula gh 
 
     pyenv install 3.13.2
     pyenv global 3.13.2
