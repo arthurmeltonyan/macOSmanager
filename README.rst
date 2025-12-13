@@ -45,4 +45,4 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     pyenv global 3.13.2
     curl -LsSf https://astral.sh/uv/install.sh | sh
 
-``macOSmanager`` officially supports only macOS Seqoia.
+``macOSmanager`` officially supports only macOS Tahoe.
