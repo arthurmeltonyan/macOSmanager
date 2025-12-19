@@ -29,7 +29,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask applite maccy pastepal
     brew install --cask raycast superwhisper
     brew install --cask cleanmymac little-snitch
-    brew install --cask whisky crossover 
+    brew install --cask crossover 
     brew install --cask keka pdf-expert
     brew install --cask notion notion-calendar notion-mail
     brew install --cask iina cleanshot clop
