@@ -42,6 +42,5 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
 
     curl -LsSf https://astral.sh/uv/install.sh | sh
     uv python install 3.13.2
-    uv python global 3.13.2
 
 ``macOSmanager`` officially supports only macOS Tahoe.
