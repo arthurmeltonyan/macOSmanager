@@ -33,12 +33,14 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask keka pdf-expert
     brew install --cask notion notion-calendar notion-mail
     brew install --cask iina cleanshot clop
-    brew install --cask zed windsurf texifier mactex-no-gui
+    brew install --cask claude
+    brew install --cask windsurf texifier mactex-no-gui
     brew install --cask tableplus postico medis querious
     brew install --cask ghostty rapidapi transmit fork 
     brew install --cask orbstack
     brew install --formula docker minikube
-    brew install --formula rustup gh 
+    brew install --formula rustup gh
+    brew install --formula zeroclaw
 
     curl -LsSf https://astral.sh/uv/install.sh | sh
     uv python install 3.13.2
