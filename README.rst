@@ -20,6 +20,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
 
     brew install --cask font-fira-code-nerd-font
     brew install --formula starship
+    brew trust Sikarugir-App/sikarugir
     echo 'eval "$(starship init zsh)"' >> ~/.zshrc
     touch ~/.hushlogin
 
@@ -29,7 +30,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask applite maccy paste
     brew install --cask raycast superwhisper
     brew install --cask cleanmymac little-snitch
-    brew install --cask crossover 
+    brew install --cask crossover Sikarugir-App/sikarugir/sikarugir
     brew install --cask keka pdf-expert
     brew install --cask notion notion-calendar notion-mail
     brew install --cask iina cleanshot clop
