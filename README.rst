@@ -37,7 +37,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask claude
     brew install --cask windsurf texifier mactex-no-gui
     brew install --cask tableplus postico medis querious
-    brew install --cask ghostty rapidapi transmit fork 
+    brew install --cask cmux rapidapi transmit fork 
     brew install --cask orbstack
     brew install --formula docker minikube
     brew install --formula rustup gh
