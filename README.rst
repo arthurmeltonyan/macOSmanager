@@ -33,7 +33,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask crossover Sikarugir-App/sikarugir/sikarugir
     brew install --cask keka pdf-expert
     brew install --cask notion notion-calendar notion-mail
-    brew install --cask iina cleanshot clop creenkite
+    brew install --cask iina cleanshot clop screenkite
     brew install --cask claude
     brew install --cask windsurf texifier mactex-no-gui
     brew install --cask tableplus postico medis querious
