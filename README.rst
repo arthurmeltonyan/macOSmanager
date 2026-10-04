@@ -27,7 +27,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --formula jq csvlens lsd zoxide ripgrep httpie tor mole
     brew install --cask tor-browser transmission
     brew install --cask zoom discord telegram slack signal
-    brew install --cask applite maccy paste
+    brew install --cask taphouse maccy paste
     brew install --cask raycast superwhisper
     brew install --cask cleanmymac little-snitch
     brew install --cask mythic highball frankea/whisky/whisky Sikarugir-App/sikarugir/sikarugir
@@ -38,7 +38,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask windsurf texifier mactex-no-gui
     brew install --cask tableplus postico medis querious
     brew install --cask rapidapi transmit fork 
-    brew install --cask taphouse cmux rcmd 
+    brew install --cask cmux rcmd 
     brew install --cask orbstack
     brew install --formula docker minikube
     brew install --formula rustup gh
