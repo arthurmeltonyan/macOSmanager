@@ -39,7 +39,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask tableplus postico medis querious
     brew install --cask rapidapi transmit fork 
     brew install --cask cmux rcmd 
-    brew install --cask orbstack
+    brew install --cask orbstack gitbutler
     brew install --formula docker minikube
     brew install --formula rustup gh
     brew install --formula zeroclaw
