@@ -35,7 +35,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask notion notion-calendar notion-mail
     brew install --cask iina cleanshot clop screenkite
     brew install --cask claude chatgpt
-    brew install --cask windsurf texifier mactex-no-gui
+    brew install --cask codeedit texifier mactex-no-gui
     brew install --cask tableplus postico medis querious
     brew install --cask rapidapi transmit fork 
     brew install --cask cmux rcmd 
