@@ -44,7 +44,8 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --formula rustup gh
     brew install --formula zeroclaw
 
-    curl -LsSf https://astral.sh/uv/install.sh | sh
+    curl -fsSL https://gitbutler.com/install.sh | sh
+    curl -fsSL https://astral.sh/uv/install.sh | sh
     uv python install 3.13.2
 
 ``macOSmanager`` officially supports only macOS Tahoe.
