@@ -24,7 +24,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     echo 'eval "$(starship init zsh)"' >> ~/.zshrc
     touch ~/.hushlogin
 
-    brew install --formula jq csvlens lsd zoxide ripgrep httpie tor mole
+    brew install --formula tor mole
     brew install --cask tor-browser transmission
     brew install --cask zoom discord telegram slack signal
     brew install --cask taphouse maccy paste
