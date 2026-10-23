@@ -43,7 +43,7 @@ The recommended way to install ``macOSmanager`` scripts is to simply use Termina
     brew install --cask taphouse maccy paste
     brew install --cask raycast superwhisper
     brew install --cask puremac mole-app cleanmymac little-snitch
-    brew install --cask highball frankea/whisky/whisky Sikarugir-App/sikarugir/sikarugir #https://githubusercontent.com
+    brew install --cask highball frankea/whisky/whisky Sikarugir-App/sikarugir/sikarugir #https://pyrosoft.pro/software/bourbon-26
     brew install --cask keka pdf-expert
     brew install --cask notion notion-calendar notion-mail
     brew install --cask iina cleanshot clop screenkite #https://podcenter.app
