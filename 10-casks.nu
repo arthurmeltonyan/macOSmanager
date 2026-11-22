@@ -30,7 +30,7 @@ $env.PATH = (
 let formulae = [tor mole]
 
 let casks = [
-    tor-browser transmission utm Osaurus
+    tor-browser transmission utm Osaurus openshelf
     zoom swiftcord telegram slack signal
     taphouse maccy paste raycast superwhisper
     mole-app cleanmymac little-snitch
